@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-docx
+reportlab
+matplotlib
+python-dotenv
+
+# AI dependencies for Ollama
+aiohttp
+requests
