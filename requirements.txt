@@ -1,0 +1,13 @@
+# Core FastAPI dependencies
+fastapi>=0.100.0
+uvicorn>=0.22.0
+
+# Document processing
+python-docx
+reportlab
+
+# Environment management
+python-dotenv
+
+# AI integration (Emergent LLM)
+emergentintegrations
